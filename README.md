@@ -23,6 +23,7 @@
 |-----------|---|---|-------|
 |**Yeolpost - 개발 블로그**|개인 개발 블로그를 위한 풀스택 웹 애플리케이션|[blog.yeo-li.com](https://blog.yeo-li.com)|[yeol-post-be](https://github.com/yeo-li/yeol-post-be)|
 |**Krocs**|학생들을 위한 공부 플래닝, 뽀모도로 타이머, 피드백 제공 서비스|[www.krocs.life](https://www.krocs.life)|[krocs-backend](https://github.com/seeds-hotpack/krocs-backend)|
+|**DevLog**|개발 과정을 쉽게 기록하도록 도와주는 인텔리제이 플러그인|[dev-log 마켓 플레이스](https://plugins.jetbrains.com/plugin/29149-dev-log)|[dev-log](https://github.com/yeo-li/dev-log)|
 
 ### Stats
 <div align="center">
