@@ -1,52 +1,31 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Yeo-Li&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-</div>
-
-<div align="center">
-    <h2>안녕하세요! 👋</h2>
-    <p><strong>아키텍트가 되고 싶은 백엔드 개발자</strong>, 박성열입니다.</p>
-    <p>세종대학교 컴퓨터공학과에 재학 중이며, <br>백엔드 개발자로 성장하기 위해 다양한 공부를 하고 있습니다.</p>
-</div>
+## 아키텍트가 되고 싶은 백엔드 개발자, 박성열입니다.
+세종대학교 컴퓨터공학과에 재학 중이며, 백엔드 개발자로 성장하기 위해 다양한 공부를 하고 있습니다.
 
 ---
 
-## 📊 Stats
+### Activities
+- 2025 Seeds 개발 연합 동아리
+
+### Certificates
+- SQLD, 한국데이터산업진흥원
+
+### Awards
+
+|날짜|대회명|수상|주관|
+|---|----|---|---|
+|2025.12.29|Seeds 프로젝트 최종 평가|최우수상|Seeds 개발 연합 동아리|
+|2025.12.23-24|2025-2 제13회 세종대학교 SW·AI 해커톤|장려상|세종대학교 SW중심대학사업단|
+
+### Projects
+
+|**프로젝트명**|개요|기술스택|주소|레포지토리|
+|-----------|---|------|---|-------|
+|**Yeolpost - 개발 블로그**|개인 개발 블로그를 위한 풀스택 웹 애플리케이션| Spring, MySQL|[blog.yeo-li.com](https://blog.yeo-li.com)|[yeol-post-be](https://github.com/yeo-li/yeol-post-be)|
+|**Krocs**|학생들을 위한 공부 플래닝, 뽀모도로 타이머, 피드백 제공 서비스|Spring, |[www.krocs.life](https://www.krocs.life)|[krocs-backend](https://github.com/seeds-hotpack/krocs-backend)|
+
+### Stats
 <div align="center">
     <a href="https://solved.ac/yeoli">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoli">
-    </a>
-</div>
-
----
-
-## ⚡ Tech Stack
-> **주로 사용하는 기술 스택들입니다.**
-
-### 🔹 Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-</p>
-
-### 🔹 Frontend & Others
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
-</p>
-
-### 🔹 Tools & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-</p>
-
----
-
-## 📬 Contact Me
-<div align="center">
-    <a href="https://velog.io/@yeo___li">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
     </a>
 </div>
