@@ -16,10 +16,10 @@
 
 ### Projects
 
-|**프로젝트명**|개요|기술스택|주소|레포지토리|
-|-----------|---|------|---|-------|
-|**Yeolpost - 개발 블로그**|개인 개발 블로그를 위한 풀스택 웹 애플리케이션| Spring, MySQL|[blog.yeo-li.com](https://blog.yeo-li.com)|[yeol-post-be](https://github.com/yeo-li/yeol-post-be)|
-|**Krocs**|학생들을 위한 공부 플래닝, 뽀모도로 타이머, 피드백 제공 서비스|Spring, |[www.krocs.life](https://www.krocs.life)|[krocs-backend](https://github.com/seeds-hotpack/krocs-backend)|
+|**프로젝트명**|개요|주소|레포지토리|
+|-----------|---|---|-------|
+|**Yeolpost - 개발 블로그**|개인 개발 블로그를 위한 풀스택 웹 애플리케이션|[blog.yeo-li.com](https://blog.yeo-li.com)|[yeol-post-be](https://github.com/yeo-li/yeol-post-be)|
+|**Krocs**|학생들을 위한 공부 플래닝, 뽀모도로 타이머, 피드백 제공 서비스|[www.krocs.life](https://www.krocs.life)|[krocs-backend](https://github.com/seeds-hotpack/krocs-backend)|
 
 ### Stats
 <div align="center">
